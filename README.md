@@ -40,6 +40,12 @@
 - 🧑‍💻 Strong grasp of **core CS subjects** (DSA, OS, CN) with practical project work  
 
 ---
+---
+
+## 🏆 Contributions
+
+![Dushyanth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dushyanth777&bg_color=ffffff&color=1A73E8&line=1A73E8&point=4285F4&area=true&hide_border=true)
+---
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/dushyanth07)  
