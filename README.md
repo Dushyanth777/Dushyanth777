@@ -1,6 +1,5 @@
-# Hi there 👋, I'm Dushyanth  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1A73E8&width=600&lines=Java+%7C+Python+%7C+C+Developer;Data+Structures+%26+Algorithms;Operating+Systems+%26+Computer+Networks;Research+%7C+Blockchain+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1A73E8&width=600&lines=Hi+there+👋,+I'm+Dushyanth)](https://git.io/typing-svg)
 
 ---
 
@@ -35,16 +34,18 @@
 
 ---
 
-## 📈 Contribution Graph
-![Dushyanth's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dushyanth777&bg_color=ffffff&color=000000&line=1A73E8&point=4285F4&area=true&hide_border=true)
+## 🏆 Achievements
+- 📖 Research paper published at **IIT** on deep learning for seizure detection  
+- 🏥 Developed a **blockchain-based health insurance system** as a final year project  
+- 🧑‍💻 Strong grasp of **core CS subjects** (DSA, OS, CN) with practical project work  
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-📫 Email: *your-email@example.com*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/dushyanth07)  
+📫 Email: *dushyanth948@gmail.com*
 
 ---
 
 ## ✨ Quote
-*"Your quote goes here..."*  
+*"Strive not to be a success, but rather to be of value."*  
