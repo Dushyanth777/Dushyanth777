@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋, I'm Dushyanth  
 
-<!--
-**Dushyanth777/Dushyanth777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🎓 Strong foundation in **Java, Python, C, Data Structures & Algorithms, Operating Systems, and Computer Networks**  
+- 🔬 Published a research paper at **IIT**:  
+  *“A Hybrid Deep Learning Model for Early Detection of Epileptic Seizures”*  
+- 🚀 Built a **Blockchain-based Health Insurance System** using HTML, CSS, JavaScript, and Solidity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-02569B)
+![Operating Systems](https://img.shields.io/badge/OS-Kernel-lightgrey)
+![Computer Networks](https://img.shields.io/badge/Computer%20Networks-228B22)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white)
+
+---
+
+## 🚀 Projects
+- 🏥 **Blockchain-based Health Insurance System**  
+  *Developed using HTML, CSS, JavaScript, and Solidity to ensure transparency and trust in healthcare insurance claims.*
+
+- 🤖 **Epileptic Seizure Detection (Research)**  
+  *Proposed a hybrid deep learning model for early detection of seizures — published at IIT.*  
+
+---
+
+## 📊 GitHub Stats
+![Dushyanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dushyanth777&show_icons=true&theme=default)
+
+---
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
+📫 Email: *your-email@example.com*  
+
+---
