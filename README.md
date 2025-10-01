@@ -1,4 +1,4 @@
-
+![Focus Image](focus.png)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=1A73E8&width=600&lines=Hi+there+👋,+I'm+Dushyanth)](https://git.io/typing-svg)
 
 ---
