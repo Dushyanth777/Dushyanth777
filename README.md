@@ -30,7 +30,7 @@
   *Developed using HTML, CSS, JavaScript, and Solidity to ensure transparency and trust in healthcare insurance claims.*
 
 - 🤖 **Epileptic Seizure Detection (Research)**  
-  *Proposed a hybrid deep learning model for early detection of seizures — published at IIT.*  
+  *Proposed a hybrid deep learning model for early detection of seizures — published at IIT Dharwad(2025).*  
 
 ---
 
